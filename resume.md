@@ -3,6 +3,7 @@
 - 手机：XXX
 - 邮箱：XXX
 - 工作年限：5年
+- Github：<https://github.com/fwwdn> 
 - 技术博客：<http://fwwdn.github.io/>
 - 期望职位：研发经理
 
